@@ -66,3 +66,9 @@ BLE is not used in this sketch.
 Combines the features of the previous sketches: sensor reading, button input and
 BLE-controlled vibration.
 
+## Android prototype
+
+The `android/` folder contains a minimal Kotlin/Compose activity demonstrating
+how to connect to the ESP32 over BLE. The screen displays a simple target while
+logging touch and drag coordinates to the app's private storage.
+
