@@ -1,0 +1,12 @@
+# Compiled binary outputs
+*.elf
+*.bin
+.pio/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
